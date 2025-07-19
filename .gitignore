@@ -8,3 +8,4 @@ __pycache__/
 *.env
 .env/
 media/
+vgg16_trained.weights.h5
