@@ -30,6 +30,9 @@ Upload medical images like X-rays based on the selected disease and get real-tim
 5- User History Dashboard
  A dashboard to display diagnosis history, latest predictions, and user activity logs in a clean UI.
 
+<img width="1915" height="959" alt="image" src="https://github.com/user-attachments/assets/13146a08-f68b-4ac3-beac-9a08b5d1b6e7" />
+
+
 📦 PostgreSQL – Advanced Relational Database
 
 PostgreSQL is a powerful, open-source object-relational database system used in AI-Diagnoser for storing user information, medical image metadata, diagnosis results, and prediction history. It ensures data integrity, performance, and scalability—making it ideal for healthcare-grade applications.
