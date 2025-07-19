@@ -1,22 +1,10 @@
-# Ignore Python cache
 __pycache__/
 *.pyc
 *.pyo
-
-# Ignore Django-specific files
-db.sqlite3
-media/
-*.log
-
-# Ignore environments
-.env
-venv/
-env/
-
-# Ignore IDEs
-.vscode/
-.idea/
-
-# Ignore large model files
+*.pyd
+*.sqlite3
 *.h5
-*.hdf5
+*.log
+*.env
+.env/
+media/
